@@ -42,7 +42,6 @@
 ### Github Stats
 <img align="left" alt="Dev Jethava's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DevJethava&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJethava&langs_count=8)](https://github.com/DevJethava)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJethava&layout=compact)](https://github.com/DevJethava)
 
 
