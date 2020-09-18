@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="242f49d0-c14a-4212-bbda-fc696bf8a98f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -183,12 +181,20 @@
       <option name="presentableId" value="Default" />
       <updated>1600417017785</updated>
       <workItem from="1600417020635" duration="805000" />
-      <workItem from="1600458206300" duration="1298000" />
+      <workItem from="1600458206300" duration="1312000" />
     </task>
+    <task id="LOCAL-00001" summary="sqlite">
+      <created>1600459516668</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600459516668</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2103000" />
+    <option name="totallyTimeSpent" value="2117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -218,6 +224,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sqlite" />
+    <option name="LAST_COMMIT_MESSAGE" value="sqlite" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
