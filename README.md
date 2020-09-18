@@ -37,6 +37,11 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
 <br />
 <br />
+---
+
+<summary>Github Stats</summary>
+<br/>
+<img align="left" alt="Dev Jethava's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DevJethava&show_icons=true&hide_border=true" />
 
 
 [instagram]: https://instagram.com/dev_the__d
