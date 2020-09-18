@@ -39,8 +39,7 @@
 <br />
 ---
 
-<summary>Github Stats</summary>
-<br/>
+### Github Stats
 <img align="left" alt="Dev Jethava's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DevJethava&show_icons=true&hide_border=true" />
 
 
