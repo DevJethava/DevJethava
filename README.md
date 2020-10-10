@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on a Android, JAVA, Kotlin
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
