@@ -23,7 +23,7 @@
 [<img align="left" alt="Sublime text" width="26px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />][github]
 [<img align="left" alt="Jet Brains" width="26px" src="https://www.brandeps.com/logo-download/J/Jetbrains-logo-vector-01.svg" />][github]
 [<img align="left" alt="Android" width="26px" src="https://www.brandeps.com/icon-download/A/Android-icon-vector-03.svg" />][linkedin]
-[<img align="left" alt="Kotlin" width="26px" src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" />][linkedin]
+[<img align="left" alt="Kotlin" width="26px" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" />][linkedin]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][github]
