@@ -1,9 +1,9 @@
 ### Hi there, I'm Dev Jethava 👋
 
-## I'm a Student, Developer, and Contributor!
+## I'm a Developer and Contributor!
 
-- 🔭 I’m currently working on a Android, JAVA, Kotlin
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on an Android, JAVA, Kotlin
+- 🌱 I’m currently learning Unit Testing
 - 🥅 Goals: Contribute more to Open Source projects
 
 
